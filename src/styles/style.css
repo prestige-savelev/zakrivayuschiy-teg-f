@@ -24,21 +24,21 @@
       90deg,
       var(--back-gradient),
       var(--back-gradient) 2px,
-      transparent 2px
+      transparent 2px,
+      transparent 4px
     ),
     repeating-linear-gradient(
       180deg,
       var(--back-gradient),
       var(--back-gradient) 2px,
-      transparent 2px
+      transparent 2px,
+      transparent 4px
     ),
     repeating-linear-gradient(
       180deg,
       var(--back-gradient-start) 0.01%,
       var(--back-gradient-end)
     );
-  background-color: var(--back-color);
-  background-image: var(--back-img);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
