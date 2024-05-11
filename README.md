@@ -15,9 +15,9 @@ JS
 GULP
 ```
 ## Проект альбом
-Светлая тема
+###Светлая тема
 ![image](https://github.com/prestige-savelev/zakrivayuschiy-teg-f/assets/161215689/471f8cb2-49df-42d2-9fce-b8096f9f1d87)
-Темная тема
+###Темная тема
 ![image](https://github.com/prestige-savelev/zakrivayuschiy-teg-f/assets/161215689/c3e0bc95-d268-41a7-90e1-48b02ab8b31f)
 
 
