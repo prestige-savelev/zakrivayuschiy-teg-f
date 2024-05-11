@@ -1,11 +1,18 @@
-# Установим зависимости
+# Проектная работа «Закрывающий тег»
+https://github.com/prestige-savelev/zakrivayuschiy-teg-f
 
-```bash
+Установка и запуск:
+```
 npm i
+npm run dev
 ```
 
-# Запустим
+## Проект с упором на анимации
 
-```bash
-npm run dev
+## Использованные технологии
+```
+HTML
+CSS
+JS
+GULP
 ```
