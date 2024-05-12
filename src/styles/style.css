@@ -341,7 +341,7 @@
   color: var(--accent-color);
   display: flex;
   align-items: center;
-  margin: 50px auto;
+  margin: 50px auto 103px;
   background: none;
   border: 2px solid var(--accent-color);
   padding: 15px 21px 15px 19px;
@@ -444,7 +444,7 @@ dialog::backdrop {
   .save__button {
     flex-direction: column;
     gap: 8px;
-    margin: 50px auto;
+    margin: 50px auto 100px;
   }
 
   .floppy-svg {
